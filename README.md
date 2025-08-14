@@ -27,9 +27,6 @@ PyGravity simulates a massive object deforming space fabric in real time using s
 -A 3D camera allows the user to move and look around using WASD (left/right forward/back movement) + QE (up/down movement) keys and the mouse for perspective
 -The fabric is drawn as a grid, and the ball is rendered as a red sphere above the fabric
 
-## Source Code
-Source code is 
-
 ## End
 thanks kavan for this idea, who originally made it in c++, this ones in PY so syntax should be easy to learn and study, thanks !!
 
